@@ -9,4 +9,4 @@ estou estudando no Alura
 0000113392278sp@al.educacao.sp.gov.br
 
 
-![.]((https://github.com/user-attachments/assets/b133dbf4-8a05-4780-bace-5acd7390de32)
+![.](https://github.com/user-attachments/assets/b133dbf4-8a05-4780-bace-5acd7390de32)
